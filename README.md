@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Andres 👋
 
-<!--
-**Manioker/Manioker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+...
 
-Here are some ideas to get you started:
+## 🛠️ Languages & Tools
+<div align="left">
+	<img src="https://github.com/manioker/manioker/blob/main/assets/languages/c.svg" alt="c logo" width="50" height="50"/>
+	<img src="https://github.com/manioker/manioker/blob/main/assets/languages/cpp.svg" alt="c logo" width="50" height="50"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manioker&theme=react&show_icons=true&hide_border=true&layout=compact)
+
+## 📈 Github Stats
+<div style="display: flex; justify-content: space-between;">
+	<img src="https://github-readme-stats.vercel.app/api?username=manioker&theme=react&show_icons=true&hide_border=true&count_private=true" style="width: 48%;">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=manioker&theme=react&hide_border=true" style="width: 51%;">
+</div>
+
+## 🔭 42 Projects
+- **[Libft](https://github.com/manioker/libft):** A library of useful functions for later projects.
+- **[Printf](https://github.com/manioker/ft_printf):** Mimic of the printf function.
+- **[GNL](https://github.com/manioker/get_next_line):** Function that returns a new line from a fd at every call.
+- **[Push Swap](https://github.com/manioker/push_swap):** Simple sorting algorithm.
+- **[Minitalk](https://github.com/manioker/minitalk):** Exchange program using UNIX signals.
+- **[So Long](https://github.com/manioker/so_long):** A very small 2D game using the MiniLibX.
+- **[Philosophers](https://github.com/manioker/philosophers):** Text program using threads and mutexes.
+- **[Minishell](https://github.com/manioker/minishell):** An utterly small shell.
+- **[Cub3D](https://github.com/manioker/cub3d):** A very small ray casting game using the MiniLibX.
+- **[CPP Modules](https://github.com/manioker/cpp_modules):** CPP Modules of 42 School.
