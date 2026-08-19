@@ -13,7 +13,6 @@
 	<img src="https://raw.githubusercontent.com/manioker/manioker/main/assets/icons/vscode.svg" alt="vscode logo" width="50" height="50"/>
 </div>
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manioker&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 ## 🔭 42 Projects
 - **[Libft](https://github.com/manioker/libft):** A library of useful functions for later projects.
