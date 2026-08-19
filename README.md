@@ -15,12 +15,6 @@
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manioker&theme=react&show_icons=true&hide_border=true&layout=compact)
 
-## 📈 Github Stats
-<div style="display: flex; justify-content: space-between;">
-	<img src="https://github-readme-stats.vercel.app/api?username=manioker&theme=react&show_icons=true&hide_border=true&count_private=true" style="width: 48%;">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=manioker&theme=react&hide_border=true" style="width: 51%;">
-</div>
-
 ## 🔭 42 Projects
 - **[Libft](https://github.com/manioker/libft):** A library of useful functions for later projects.
 - **[Printf](https://github.com/manioker/ft_printf):** Mimic of the printf function.
