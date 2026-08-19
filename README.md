@@ -1,7 +1,7 @@
 # Hi there, I'm Andres 👋
 
 ## About Me
-...
+I'm a student at 42 School, I use this space to back up my work and share projects that might come in handy for anyone.
 
 ## 🛠️ Languages & Tools
 <div align="left">
