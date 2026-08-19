@@ -5,8 +5,12 @@
 
 ## 🛠️ Languages & Tools
 <div align="left">
-	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/languages/c.svg" alt="c logo" width="50" height="50"/>
-	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/languages/cpp.svg" alt="c logo" width="50" height="50"/>
+	<img src="https://raw.githubusercontent.com/manioker/manioker/main/assets/icons/c.svg" alt="c logo" width="50" height="50"/>
+	<img src="https://raw.githubusercontent.com/manioker/manioker/main/assets/icons/cpp.svg" alt="cpp logo" width="50" height="50"/>
+	<img src="https://raw.githubusercontent.com/manioker/manioker/main/assets/icons/cs.svg" alt="csharp logo" width="50" height="50"/>
+	<img src="https://raw.githubusercontent.com/manioker/manioker/main/assets/icons/git.svg" alt="git logo" width="50" height="50"/>
+	<img src="https://raw.githubusercontent.com/manioker/manioker/main/assets/icons/docker.svg" alt="docker logo" width="50" height="50"/>
+	<img src="https://raw.githubusercontent.com/manioker/manioker/main/assets/icons/vscode.svg" alt="vscode logo" width="50" height="50"/>
 </div>
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manioker&theme=react&show_icons=true&hide_border=true&layout=compact)
