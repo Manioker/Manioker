@@ -21,7 +21,9 @@ I'm a student at 42 School, I use this space to back up my work and share projec
 - **[Push Swap](https://github.com/manioker/push_swap):** Simple sorting algorithm.
 - **[Minitalk](https://github.com/manioker/minitalk):** Exchange program using UNIX signals.
 - **[So Long](https://github.com/manioker/so_long):** A very small 2D game using the MiniLibX.
-- **[Philosophers](https://github.com/manioker/philosophers):** Text program using threads and mutexes.
+- **[Philosophers](https://github.com/manioker/philosopher):** Text program using threads and mutexes.
 - **[Minishell](https://github.com/manioker/minishell):** An utterly small shell.
 - **[Cub3D](https://github.com/manioker/cub3d):** A very small ray casting game using the MiniLibX.
 - **[CPP Modules](https://github.com/manioker/cpp_modules):** CPP Modules of 42 School.
+- **[Inception](https://github.com/manioker/inception):** A small Docker infrastructure (NGINX, WordPress, MariaDB).
+- **[Transcendence](https://github.com/manioker/ft_transcendance):** A real-time multiplayer Tron-like web game with chat and friends.
